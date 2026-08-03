@@ -1,9 +1,9 @@
 const songs = [
-  { title: "Midnight Drive", artist: "Lo-Fi Collective", cover: "images/cover1.png", src: "audio/track1.mp3" },
-  { title: "Golden Hour", artist: "Aria Beats", cover: "images/cover2.png", src: "audio/track2.mp3" },
-  { title: "Neon Skyline", artist: "Nova Waves", cover: "images/cover3.png", src: "audio/track3.mp3" },
-  { title: "Paper Moon", artist: "Echo Room", cover: "images/cover4.png", src: "audio/track4.mp3" },
-  { title: "Slow Static", artist: "Velvet Frame", cover: "images/cover5.png", src: "audio/track5.mp3" }
+  { title: "Midnight Drive", artist: "Lo-Fi Collective", cover: "cover1.png", src: "track1.mp3" },
+  { title: "Golden Hour", artist: "Aria Beats", cover: "cover2.png", src: "track2.mp3" },
+  { title: "Neon Skyline", artist: "Nova Waves", cover: "cover3.png", src: "track3.mp3" },
+  { title: "Paper Moon", artist: "Echo Room", cover: "cover4.png", src: "track4.mp3" },
+  { title: "Slow Static", artist: "Velvet Frame", cover: "cover5.png", src: "track5.mp3" }
 ];
 
 const audio = document.getElementById("audio");
